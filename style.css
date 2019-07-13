@@ -1,10 +1,13 @@
-html  {
+html{
+  background: white;
+}
+#wrap {
   background: #000;
   font-family: 'Noto Serif', serif;
   -webkit-font-smoothing: antialiased;
   text-align: center;
+  margin: 50px;
 }
-
 header {
 position: relative;
 margin: 30px 0;
@@ -14,7 +17,7 @@ header:after {
 content: '';
 width: 460px;
 height: 15px;
-background: url(images/intro-div.svg) no-repeat center;
+background: no-repeat center;
 display: inline-block;
 text-align: center;
 background-size: 70%;
