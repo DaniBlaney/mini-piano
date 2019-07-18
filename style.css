@@ -113,6 +113,15 @@ left: 77%;
 .key[data-key="80"] {
 left: 87%;
 }
+.key[data-key=""]{
+left:
+}
+.key[data-key=""]{
+left:
+}
+.key[data-key=""]{
+left:
+}
 
 .playing {
 transform: scale(.95);
