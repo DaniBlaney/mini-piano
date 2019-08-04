@@ -8,38 +8,6 @@ html{
   text-align: center;
   margin: 50px;
 }
-header {
-position: relative;
-margin: 30px 0;
-}
-
-header:after {
-content: '';
-width: 460px;
-height: 15px;
-background: no-repeat center;
-display: inline-block;
-text-align: center;
-background-size: 70%;
-}
-
-h1 {
-color: #fff;
-font-size: 50px;
-font-weight: 400;
-letter-spacing: 0.18em;
-text-transform: uppercase;
-margin: 0;
-}
-
-h2 {
-color: #fff;
-font-size: 24px;
-font-style: italic;
-font-weight: 400;
-margin: 0 0 30px;
-}
-
 .nowplaying {
 font-size: 120px;
 line-height: 1;
